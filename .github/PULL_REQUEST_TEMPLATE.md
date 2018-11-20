@@ -8,3 +8,4 @@
 - [ ] Update the Readme or any other documentation (including relevant Javadoc)
 - [ ] Ensured that tests pass locally: `mvn clean package`
 - [ ] Ensured that the code meets the current `checkstyle` coding style definition: `mvn clean verify -Pcheckstyle -Dmaven.test.skip=true -B`
+thanks
